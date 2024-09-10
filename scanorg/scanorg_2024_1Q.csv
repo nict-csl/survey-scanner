@@ -1,24 +1,25 @@
 scanner name,type,TCP port count,UDP port count,observed days,reference
 Censys,Threat Intelligence service,65535,65535,91,https://support.censys.io/hc/en-us/articles/360043177092-Opt-Out-of-Data-Collection
-Palo Alto Networks (Cortex-Xpanse),Threat Intelligence service,292,20,91,https://www.paloaltonetworks.com/cortex/cortex-xpanse
 Stretchoid, - ,462,64,91,https://stretchoid.com/
-driftnet (internet-measurement.com),Threat Intelligence service,65535,90,91,https://internet-measurement.com/
+Palo Alto Networks (Cortex-Xpanse),Threat Intelligence service,292,20,91,https://www.paloaltonetworks.com/cortex/cortex-xpanse
+Shadowserver,Threat Intelligence service,136,39,91,https://www.shadowserver.org/
 academyforinternetresearch, - ,1467,1,90,https://academyforinternetresearch.org/
 The Recyber Project, - ,65536,0,91,https://www.recyber.net/
 CriminalIP,Threat Intelligence service,3363,892,73,https://www.criminalip.io/
+driftnet (internet-measurement.com),Threat Intelligence service,65535,1,91,https://internet-measurement.com/
+Shodan,Threat Intelligence service,1525,78,91,https://www.shodan.io/
 internettl, - ,307,120,77, - 
 bitsight,Security evaluation service,307,48,91,https://www.internet-census.org/
-Shodan,Threat Intelligence service,1233,76,91,https://www.shodan.io/
-Shadowserver,Threat Intelligence service,133,38,91,https://www.shadowserver.org/
-Qrator (Qrator.Radar),Threat Intelligence service,5,15,91,https://radar.qrator.net/learn/18?article=37
 bufferover.run,TLS certificate information service,333,0,91,https://newtls.bufferover.run/
-NETSCOUT (Arbor),Threat Intelligence service,8141,8,85,https://www.internet-albedo.net/
-Onyphe,Threat Intelligence service,65536,0,91,https://www.onyphe.io/
+ScanOpticon,Threat Intelligence service,65535,0,91,https://optout.scanopticon.com/
+Qrator (Qrator.Radar),Threat Intelligence service,5,15,91,https://radar.qrator.net/learn/18?article=37
+Onyphe,Threat Intelligence service,65536,15,91,https://www.onyphe.io/
 Rapid7 (Project Sonar),Threat Intelligence service,148,22,48,https://www.rapid7.com/research/project-sonar/
+NETSCOUT (Arbor),Threat Intelligence service,7,8,85,https://www.internet-albedo.net/
 Cyble (ODIN),Threat Intelligence service,150,0,17,https://odinn.tech/
-Binaryedge,Threat Intelligence service,879,48,91,https://docs.binaryedge.io/SEv2/blocking/
 Adscore,Traffic Detection service,4,24840,91,https://www.adscore.com/
-ipip,Threat Intelligence service,13,0,91,https://security.ipip.net/
+Binaryedge,Threat Intelligence service,773,9,91,https://docs.binaryedge.io/SEv2/blocking/
+ipip,Threat Intelligence service,14,0,91,https://security.ipip.net/
 Crowd Strike (Reposify),Threat Intelligence service,69,9,91,https://www.crowdstrike.com/products/exposure-management/falcon-surface/
 Limes Security (Alpha Strike Labs),Threat Intelligence service,63,41,53,https://www.alphastrike.io/
 UpGuard (CyberResilience),Research,12,2,91,https://cyberresilience.io/cyberresilience
@@ -32,12 +33,13 @@ Edgewatch,Threat Intelligence service,395,0,26,https://edgewatch.com/
 Winnti Scanner,Survey and warning,23,0,39,http://winnti-scanner-victims-will-be-notified.threatsinkhole.com/
 University of Cambridgeridge,Research,2,3,77,https://net.in.tum.de/projects/gino/scans.html
 ICT-ISAC,Survey and warning,230,0,35,https://www.ict-isac.jp/news/news20231115.html
+Cybergreen,Threat Intelligence service,0,5,63,https://www.cybergreen.net/
 Stanford University,Research,30,0,33,https://research.esrg.stanford.edu/
 ipinfo,IP address information service,4,0,53,https://ipinfo.io/census
 TU Braunschweig (IAS Lab),Research,42,0,9,https://ias-lab.de
 University of Cambridge,Research,0,8,53,https://cccc-scanner.dtg.cl.cam.ac.uk/
 netsecscan,Research,0,5,61,http://netsecscan.net/
-Leakix,Threat Intelligence service,267,1,91,https://leakix.net/about
+Leakix,Threat Intelligence service,265,0,28,https://leakix.net/about
 Ruhr University Bochum,Research,2,0,24,http://research-scanner-dfn89.nds.ruhr-uni-bochum.de/
 internet.survey, - ,16,3,14,http://199.195.248.205/
 University of Michigan,Research,2,0,26,https://cse.engin.umich.edu/about/resources/connection-attempts/
