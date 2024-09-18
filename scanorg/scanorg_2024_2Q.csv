@@ -1,0 +1,62 @@
+scanner name,type,TCP port count,UDP port count,observed days,reference
+Censys,Threat Intelligence service,65535,65535,91,https://support.censys.io/hc/en-us/articles/360043177092-Opt-Out-of-Data-Collection
+Palo Alto Networks (Cortex-Xpanse),Threat Intelligence service,10035,251,91,https://www.paloaltonetworks.com/cortex/cortex-xpanse
+Shadowserver,Threat Intelligence service,144,39,91,https://www.shadowserver.org/
+CriminalIP,Threat Intelligence service,4224,518,91,https://www.criminalip.io/
+Academy for Internet Research, - ,1467,1,89,https://academyforinternetresearch.org/
+driftnet (internet-measurement.com),Threat Intelligence service,65535,1,91,https://internet-measurement.com/
+The Recyber Project, - ,65536,0,91,https://www.recyber.net/
+Stretchoid, - ,302,64,66,https://stretchoid.com/
+Shodan,Threat Intelligence service,1364,78,91,https://www.shodan.io/
+internettl, - ,307,124,89, - 
+bitsight,Security evaluation service,314,43,91,https://www.internet-census.org/
+ScanOpticon,Threat Intelligence service,65535,0,90,https://optout.scanopticon.com/
+Rapid7 (Project Sonar),Threat Intelligence service,148,22,54,https://www.rapid7.com/research/project-sonar/
+Qrator (Qrator.Radar),Threat Intelligence service,5,15,91,https://radar.qrator.net/learn/18?article=37
+Onyphe,Threat Intelligence service,214,15,91,https://www.onyphe.io/
+bufferover.run,TLS certificate information service,335,0,91,https://newtls.bufferover.run/
+NETSCOUT (Arbor),Threat Intelligence service,5,4,91,https://www.internet-albedo.net/
+Limes Security (Alpha Strike Labs),Threat Intelligence service,69,48,90,https://www.alphastrike.io/
+ipip,Threat Intelligence service,13,1,91,https://security.ipip.net/
+Crowd Strike (Reposify),Threat Intelligence service,69,9,90,https://www.crowdstrike.com/products/exposure-management/falcon-surface/
+Yokohama National University,Research,27,0,80,http://133.34.169.31/
+Adscore,Traffic Detection service,4,1744,74,https://www.adscore.com/
+GDNplus, - ,65535,2,37,https://gdnplus.com/about/
+Winnti Scanner,Survey and warning,23,0,54,http://winnti-scanner-victims-will-be-notified.threatsinkhole.com/
+Intrinsec,Threat Intelligence service,8,0,91,https://www.intrinsec.com/
+FR Cert,Survey and warning,1147,1,79,https://www.cert.ssi.gouv.fr/scans/
+THESEUS,Research,1226,0,15,https://project-theseus.nl
+SI6 Networks,Security Consluting service,5,0,76,https://www.si6networks.com/
+University of Twente (Internet Transparency research project),Research,7,0,80,https://please-see-measurements.internet-transparency.org/
+ICT-ISAC,Survey and warning,230,0,45,https://www.ict-isac.jp/news/news20231115.html
+The Technical University of Munich (TUM),Research,2,3,86,https://net.in.tum.de/projects/gino/scans.html
+Cybergreen,Threat Intelligence service,0,5,63,https://www.cybergreen.net/
+Stanford University,Research,32,6000,48,https://research.esrg.stanford.edu/
+Binaryedge,Threat Intelligence service,567,9,90,https://docs.binaryedge.io/SEv2/blocking/
+Edgewatch,Threat Intelligence service,395,0,18,https://edgewatch.com/
+ipinfo,IP address information service,81,0,54,https://ipinfo.io/census
+University of Cambridge,Research,5,8,41,https://cccc-scanner.dtg.cl.cam.ac.uk/
+netsecscan,Research,0,5,55,http://netsecscan.net/
+University of California,Research,2,0,38,http://169.228.66.212/
+Open Port Stats, - ,981,1,24,http://openportstats.com/
+Leakix,Threat Intelligence service,90,0,24,https://leakix.net/about
+Esslingen University of Applied Sciences (Project Patchwatch),Research,92,0,44,http://66.240.192.82/
+Max Planck Institute,Research,2,3194,59,https://inet-research-scan-1.mpi-inf.mpg.de/
+internet.survey, - ,16,3,10,http://199.195.248.205/
+University of Michigan,Research,2,0,27,https://cse.engin.umich.edu/about/resources/connection-attempts/
+University of Colorado,Research,2,1,23,http://zbuff-research-scan.colorado.edu/
+Ruhr University Bochum,Research,13,3,10,http://research-scanner-dfn89.nds.ruhr-uni-bochum.de/
+FH Muenster,Research,2,0,3,https://fb02itsscan06.fh-muenster.de/
+UpGuard (CyberResilience),Research,12,2,13,https://cyberresilience.io/cyberresilience
+research-scanner.com, - ,12,8,81,http://research-scanner.com/
+Georgia Institute of Technology, - ,21,0,3,https://scp.cc.gatech.edu/
+Archive.org,Web crawl bot,0,0,11,http://crawler.archive.org/index.html
+CAIDA,Research,0,0,91,https://www.caida.org/projects/ioda/
+Research knoq, - ,1,0,91,https://research.knoq.nl/
+SBA Research, - ,0,0,90,https://www.sba-research.org/
+Facebook (FacebookBot),Web crawl bot,2,0,33,https://developers.facebook.com/docs/sharing/bot
+semrush,Web crawl bot,1,0,5,https://www.semrush.com/
+dataforseo,Web crawl bot,2,0,3,https://dataforseo.com/
+Ahrefs (AhrefsBot),Web crawl bot,2,0,16,https://ahrefs.com
+ANT lab,Research,0,0,4,https://ant.isi.edu/
+ByteDance (Bytespider),Web crawl bot,1,0,1,https://www.bytedance.com/en/
