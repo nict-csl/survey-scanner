@@ -3,7 +3,7 @@ Censys,Threat Intelligence service,65535,65535,91,https://support.censys.io/hc/e
 Stretchoid, - ,462,64,91,https://stretchoid.com/
 Palo Alto Networks (Cortex-Xpanse),Threat Intelligence service,292,20,91,https://www.paloaltonetworks.com/cortex/cortex-xpanse
 Shadowserver,Threat Intelligence service,136,39,91,https://www.shadowserver.org/
-academyforinternetresearch, - ,1467,1,90,https://academyforinternetresearch.org/
+Academy for Internet Research, - ,1467,1,90,https://academyforinternetresearch.org/
 The Recyber Project, - ,65536,0,91,https://www.recyber.net/
 CriminalIP,Threat Intelligence service,3363,892,73,https://www.criminalip.io/
 driftnet (internet-measurement.com),Threat Intelligence service,65535,1,91,https://internet-measurement.com/
@@ -31,7 +31,7 @@ SI6 Networks,Security Consluting service,6,0,91,https://www.si6networks.com/
 University of Twente (Internet Transparency research project),Research,7,0,91,https://please-see-measurements.internet-transparency.org/
 Edgewatch,Threat Intelligence service,395,0,26,https://edgewatch.com/
 Winnti Scanner,Survey and warning,23,0,39,http://winnti-scanner-victims-will-be-notified.threatsinkhole.com/
-University of Cambridgeridge,Research,2,3,77,https://net.in.tum.de/projects/gino/scans.html
+The Technical University of Munich (TUM),Research,2,3,77,https://net.in.tum.de/projects/gino/scans.html
 ICT-ISAC,Survey and warning,230,0,35,https://www.ict-isac.jp/news/news20231115.html
 Cybergreen,Threat Intelligence service,0,5,63,https://www.cybergreen.net/
 Stanford University,Research,30,0,33,https://research.esrg.stanford.edu/
