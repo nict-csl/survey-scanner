@@ -1,0 +1,61 @@
+scanner name,type,TCP port count,UDP port count,observed days,reference
+Censys,Threat Intelligence service,65535,65535,92,https://support.censys.io/hc/en-us/articles/360043177092-Opt-Out-of-Data-Collection
+Palo Alto Networks (Cortex-Xpanse),Threat Intelligence service,19515,208,92,https://www.paloaltonetworks.com/cortex/cortex-xpanse
+The Recyber Project, - ,65536,0,92,https://www.recyber.net/
+Stretchoid, - ,302,64,92,https://stretchoid.com/
+Shadowserver,Threat Intelligence service,154,47,92,https://www.shadowserver.org/
+CriminalIP,Threat Intelligence service,5345,330,92,https://www.criminalip.io/
+driftnet (internet-measurement.com),Threat Intelligence service,65535,9,92,https://internet-measurement.com/
+Academy for Internet Research, - ,1467,1,87,https://academyforinternetresearch.org/
+Inspici,Survey and warning,295,0,31,https://inspici.com/
+Shodan,Threat Intelligence service,1610,85,92,https://www.shodan.io/
+internettl, - ,307,120,92, - 
+bitsight,Security evaluation service,319,38,92,https://www.internet-census.org/
+Binaryedge,Threat Intelligence service,568,11,92,https://docs.binaryedge.io/SEv2/blocking/
+Onyphe,Threat Intelligence service,255,15,92,https://www.onyphe.io/
+GROUP-IB,Attack Surface Management service,104,0,92,https://www.group-ib.com/products/attack-surface-management/
+ICT-ISAC,Survey and warning,231,0,20,https://www.ict-isac.jp/news/news20231115.html
+ScanOpticon,Threat Intelligence service,65535,0,91,https://optout.scanopticon.com/
+Rapid7 (Project Sonar),Threat Intelligence service,149,22,47,https://www.rapid7.com/research/project-sonar/
+Qrator (Qrator.Radar),Threat Intelligence service,5,15,92,https://radar.qrator.net/learn/18?article=37
+bufferover.run,TLS certificate information service,336,0,90,https://newtls.bufferover.run/
+NETSCOUT (Arbor),Threat Intelligence service,11,1111,91,https://www.internet-albedo.net/
+Open Port Stats, - ,22799,0,45,http://openportstats.com/
+ipip,Threat Intelligence service,17,0,92,https://security.ipip.net/
+Limes Security (Alpha Strike Labs),Threat Intelligence service,78,50,91,https://www.alphastrike.io/
+UpGuard (CyberResilience),Research,12,2,92,https://cyberresilience.io/cyberresilience
+Adscore,Traffic Detection service,4,7824,83,https://www.adscore.com/
+FR Cert,Survey and warning,1069,1,91,https://www.cert.ssi.gouv.fr/scans/
+Intrinsec,Threat Intelligence service,8,0,92,https://www.intrinsec.com/
+University of Twente (Internet Transparency research project),Research,10,0,91,https://please-see-measurements.internet-transparency.org/
+Yokohama National University,Research,27,0,51,http://133.34.169.31/
+Leakix,Threat Intelligence service,93,0,9,https://leakix.net/about
+Cybergreen,Threat Intelligence service,0,5,62,https://www.cybergreen.net/
+The Technical University of Munich (TUM),Research,2,3,80,https://net.in.tum.de/projects/gino/scans.html
+ipinfo,IP address information service,373,7,78,https://ipinfo.io/census
+University of Cambridge,Research,5,8,46,https://cccc-scanner.dtg.cl.cam.ac.uk/
+GDNplus, - ,65535,2,30,https://gdnplus.com/about/
+Stanford University,Research,975,5999,15,https://research.esrg.stanford.edu/
+netsecscan,Research,0,5,60,http://netsecscan.net/
+University of California,Research,2,0,41,http://169.228.66.212/
+FH Muenster,Research,6,0,12,https://fb02itsscan06.fh-muenster.de/
+Max Planck Institute,Research,4,2,70,https://inet-research-scan-1.mpi-inf.mpg.de/
+Crowd Strike (Reposify),Threat Intelligence service,66,8,8,https://www.crowdstrike.com/products/exposure-management/falcon-surface/
+University of Michigan,Research,1,1,26,https://cse.engin.umich.edu/about/resources/connection-attempts/
+Esslingen University of Applied Sciences (Project Patchwatch),Research,48,0,7,http://66.240.192.82/
+ESET,End point security product,1,0,5,https://internet-scanner.eset.com/
+University of Colorado,Research,2,0,2,http://zbuff-research-scan.colorado.edu/
+ANT lab,Research,0,0,37,https://ant.isi.edu/
+CAIDA,Research,0,0,92,https://www.caida.org/projects/ioda/
+Research knoq, - ,1,1,92,https://research.knoq.nl/
+research-scanner.com, - ,12,7,55,http://research-scanner.com/
+SBA Research, - ,0,0,80,https://www.sba-research.org/
+Archive.org,Web crawl bot,1,0,2,http://crawler.archive.org/index.html
+Georgia Institute of Technology, - ,3,0,3,https://scp.cc.gatech.edu/
+THESEUS,Research,120,0,1,https://project-theseus.nl
+Facebook (FacebookBot),Web crawl bot,2,1,33,https://developers.facebook.com/docs/sharing/bot
+semrush,Web crawl bot,1,0,6,https://www.semrush.com/
+Apple (Applebot),Web crawl bot,3,0,6,https://support.apple.com/ja-jp/HT204683
+Ahrefs (AhrefsBot),Web crawl bot,2,0,13,https://ahrefs.com
+dataforseo,Web crawl bot,2,0,2,https://dataforseo.com/
+Sogou (Sogouspider),Web crawl bot,0,1,1,https://zhanzhang.sogou.com/index.php/help/spider
