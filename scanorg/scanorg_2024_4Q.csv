@@ -1,0 +1,60 @@
+scanner name,type,TCP port count,UDP port count,observed days,reference
+Palo Alto Networks (Cortex-Xpanse),Threat Intelligence service,19477,132,92,https://www.paloaltonetworks.com/cortex/cortex-xpanse
+Censys,Threat Intelligence service,65535,65535,92,https://support.censys.io/hc/en-us/articles/360043177092-Opt-Out-of-Data-Collection
+Stretchoid, - ,302,64,92,https://stretchoid.com/
+Shadowserver,Threat Intelligence service,182,44,92,https://www.shadowserver.org/
+CriminalIP,Threat Intelligence service,9543,216,92,https://www.criminalip.io/
+The Recyber Project, - ,65536,0,92,https://www.recyber.net/
+driftnet (internet-measurement.com),Threat Intelligence service,65535,21,92,https://internet-measurement.com/
+Inspici,Survey and warning,236,0,54,https://inspici.com/
+Academy for Internet Research, - ,1467,1,85,https://academyforinternetresearch.org/
+Shodan,Threat Intelligence service,1596,79,92,https://www.shodan.io/
+Onyphe,Threat Intelligence service,1829,25,92,https://www.onyphe.io/
+internettl, - ,256,123,85, - 
+ICT-ISAC,Survey and warning,231,0,43,https://www.ict-isac.jp/news/news20231115.html
+bitsight,Security evaluation service,331,38,92,https://www.internet-census.org/
+NETSCOUT (Arbor),Threat Intelligence service,6,62,92,https://www.internet-albedo.net/
+GROUP-IB,Attack Surface Management service,102,0,92,https://www.group-ib.com/products/attack-surface-management/
+bufferover.run,TLS certificate information service,343,0,92,https://newtls.bufferover.run/
+Binaryedge,Threat Intelligence service,567,10,92,https://docs.binaryedge.io/SEv2/blocking/
+Qrator (Qrator.Radar),Threat Intelligence service,5,15,92,https://radar.qrator.net/learn/18?article=37
+Rapid7 (Project Sonar),Threat Intelligence service,148,22,45,https://www.rapid7.com/research/project-sonar/
+ScanOpticon,Threat Intelligence service,65535,0,92,https://optout.scanopticon.com/
+ipip,Threat Intelligence service,30,6,92,https://security.ipip.net/
+Limes Security (Alpha Strike Labs),Threat Intelligence service,91,53,91,https://www.alphastrike.io/
+Adscore,Traffic Detection service,4,45355,92,https://www.adscore.com/
+UpGuard (CyberResilience),Research,12,2,92,https://cyberresilience.io/cyberresilience
+Stanford University,Research,5078,4743,37,https://research.esrg.stanford.edu/
+Yokohama National University,Research,27,0,83,http://133.34.169.31/
+Intrinsec,Threat Intelligence service,8,0,91,https://www.intrinsec.com/
+FR Cert,Survey and warning,1044,1,78,https://www.cert.ssi.gouv.fr/scans/
+FH Muenster,Research,26,0,22,https://fb02itsscan06.fh-muenster.de/
+Leakix,Threat Intelligence service,163,0,10,https://leakix.net/about
+Cybergreen,Threat Intelligence service,0,5,66,https://www.cybergreen.net/
+Open Port Stats, - ,54,2,17,http://openportstats.com/
+University of Cambridge,Research,5,8,54,https://cccc-scanner.dtg.cl.cam.ac.uk/
+The Technical University of Munich (TUM),Research,2,2,75,https://net.in.tum.de/projects/gino/scans.html
+University of Twente (Internet Transparency research project),Research,10,0,53,https://please-see-measurements.internet-transparency.org/
+ipinfo,IP address information service,44,0,50,https://ipinfo.io/census
+"University of California, San Diego",Research,2,0,39,http://169.228.66.212/
+netsecscan,Research,0,5,60,http://netsecscan.net/
+internet.survey, - ,16,3,15,http://199.195.248.205/
+Max Planck Institute,Research,2,0,75,https://inet-research-scan-1.mpi-inf.mpg.de/
+Politecnico di Milano,Research,7,0,11,http://131.175.55.101/
+Edgewatch,Threat Intelligence service,395,0,3,https://edgewatch.com/
+GDNplus, - ,2,0,6,https://gdnplus.com/about/
+The Internet Archive,Web crawl bot,2,0,8,http://crawler.archive.org/index.html
+Ruhr University Bochum,Research,1,0,3,http://research-scanner-dfn89.nds.ruhr-uni-bochum.de/
+ANT lab,Research,0,0,48,https://ant.isi.edu/
+research-scanner.com, - ,12,7,63,http://research-scanner.com/
+CAIDA,Research,0,1,92,https://www.caida.org/projects/ioda/
+NOKIA (Deepfield),DDoS Detection service,691,44,62,https://www.nokia.com/genomecrawler/
+Research knoq, - ,1,0,87,https://research.knoq.nl/
+SBA Research, - ,0,0,92,https://www.sba-research.org/
+University of Michigan,Research,2,0,2,https://cse.engin.umich.edu/about/resources/connection-attempts/
+Facebook (FacebookBot),Web crawl bot,1,0,28,https://developers.facebook.com/docs/sharing/bot
+semrush,Web crawl bot,1,0,6,https://www.semrush.com/
+Common Crawl,Web crawl open data service,1,0,2,https://commoncrawl.org/
+dataforseo,Web crawl bot,2,0,2,https://dataforseo.com/
+Net Systems Research, - ,1,1,4, - 
+Apple (Applebot),Web crawl bot,4,0,5,https://support.apple.com/ja-jp/HT204683

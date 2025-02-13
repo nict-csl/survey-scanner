@@ -1,0 +1,79 @@
+scanner name,type,TCP port count,UDP port count,observed days,reference
+Censys,Threat Intelligence service,65535,65535,366,https://support.censys.io/hc/en-us/articles/360043177092-Opt-Out-of-Data-Collection
+Palo Alto Networks (Cortex-Xpanse),Threat Intelligence service,40707,387,366,https://www.paloaltonetworks.com/cortex/cortex-xpanse
+Stretchoid, - ,463,64,341,https://stretchoid.com/
+Shadowserver,Threat Intelligence service,199,49,366,https://www.shadowserver.org/
+CriminalIP,Threat Intelligence service,10770,1728,348,https://www.criminalip.io/
+The Recyber Project, - ,65536,0,366,https://www.recyber.net/
+driftnet (internet-measurement.com),Threat Intelligence service,65535,21,366,https://internet-measurement.com/
+Academy for Internet Research, - ,1467,1,351,https://academyforinternetresearch.org/
+Shodan,Threat Intelligence service,2330,88,366,https://www.shodan.io/
+Inspici,Survey and warning,295,0,85,https://inspici.com/
+internettl, - ,310,145,343, - 
+bitsight,Security evaluation service,341,48,366,https://www.internet-census.org/
+Onyphe,Threat Intelligence service,65536,25,366,https://www.onyphe.io/
+bufferover.run,TLS certificate information service,343,0,364,https://newtls.bufferover.run/
+ScanOpticon,Threat Intelligence service,65535,0,364,https://optout.scanopticon.com/
+ICT-ISAC,Survey and warning,231,0,143,https://www.ict-isac.jp/news/news20231115.html
+Rapid7 (Project Sonar),Threat Intelligence service,149,22,194,https://www.rapid7.com/research/project-sonar/
+NETSCOUT (Arbor),Threat Intelligence service,13,1168,359,https://www.internet-albedo.net/
+Qrator (Qrator.Radar),Threat Intelligence service,5,15,366,https://radar.qrator.net/learn/18?article=37
+Binaryedge,Threat Intelligence service,781,14,365,https://docs.binaryedge.io/SEv2/blocking/
+GROUP-IB,Attack Surface Management service,104,0,184,https://www.group-ib.com/products/attack-surface-management/
+ipip,Threat Intelligence service,30,7,366,https://security.ipip.net/
+Limes Security (Alpha Strike Labs),Threat Intelligence service,102,56,325,https://www.alphastrike.io/
+Adscore,Traffic Detection service,4,54627,340,https://www.adscore.com/
+Open Port Stats, - ,23496,2,92,http://openportstats.com/
+UpGuard (CyberResilience),Research,12,2,288,https://cyberresilience.io/cyberresilience
+Yokohama National University,Research,27,0,296,http://133.34.169.31/
+Cyble (ODIN),Threat Intelligence service,150,0,17,https://odinn.tech/
+Crowd Strike (Reposify),Threat Intelligence service,69,9,189,https://www.crowdstrike.com/products/exposure-management/falcon-surface/
+FR Cert,Survey and warning,1177,1,333,https://www.cert.ssi.gouv.fr/scans/
+Intrinsec,Threat Intelligence service,8,0,365,https://www.intrinsec.com/
+Stanford University,Research,5406,6000,133,https://research.esrg.stanford.edu/
+University of Twente (Internet Transparency research project),Research,13,0,315,https://please-see-measurements.internet-transparency.org/
+GDNplus, - ,65535,19,103,https://gdnplus.com/about/
+The Technical University of Munich (TUM),Research,2,4,318,https://net.in.tum.de/projects/gino/scans.html
+Cybergreen,Threat Intelligence service,0,5,254,https://www.cybergreen.net/
+Winnti Scanner,Survey and warning,23,0,93,http://winnti-scanner-victims-will-be-notified.threatsinkhole.com/
+ipinfo,IP address information service,409,7,235,https://ipinfo.io/census
+Leakix,Threat Intelligence service,316,0,71,https://leakix.net/about
+SI6 Networks,Security Consluting service,10,0,167,https://www.si6networks.com/
+University of Cambridge,Research,5,8,194,https://cccc-scanner.dtg.cl.cam.ac.uk/
+Edgewatch,Threat Intelligence service,395,0,47,https://edgewatch.com/
+FH Muenster,Research,27,0,38,https://fb02itsscan06.fh-muenster.de/
+netsecscan,Research,0,5,236,http://netsecscan.net/
+THESEUS,Research,1228,0,17,https://project-theseus.nl
+"University of California, San Diego",Research,2,1,132,http://169.228.66.212/
+internet.survey, - ,16,3,39,http://199.195.248.205/
+Max Planck Institute,Research,5,3196,218,https://inet-research-scan-1.mpi-inf.mpg.de/
+TU Braunschweig (IAS Lab),Research,42,0,9,https://ias-lab.de
+University of Michigan,Research,2,1,81,https://cse.engin.umich.edu/about/resources/connection-attempts/
+Ruhr University Bochum,Research,13,3,37,http://research-scanner-dfn89.nds.ruhr-uni-bochum.de/
+Esslingen University of Applied Sciences (Project Patchwatch),Research,138,0,69,http://66.240.192.82/
+University of Colorado,Research,2,6,53,http://zbuff-research-scan.colorado.edu/
+RWTH Aachen University,Research,6,1,12,http://researchscan.comsys.rwth-aachen.de/
+TU Dresden,Research,0,4,7,http://141.76.94.11/
+Politecnico di Milano,Research,7,0,11,http://131.175.55.101/
+FOI Internet Scanning Project,Research,5,0,34,http://37.233.77.228/
+The Internet Archive,Web crawl bot,2,0,22,http://crawler.archive.org/index.html
+research-scanner.com, - ,12,8,289,http://research-scanner.com/
+ANT lab,Research,0,0,117,https://ant.isi.edu/
+University of the Free State (UFS), - ,315,52,2,https://www.ufs.ac.za/
+ESET,End point security product,1,0,9,https://internet-scanner.eset.com/
+CAIDA,Research,0,1,366,https://www.caida.org/projects/ioda/
+Research knoq, - ,1,1,361,https://research.knoq.nl/
+Georgia Institute of Technology, - ,26,0,18,https://scp.cc.gatech.edu/
+SBA Research, - ,0,0,327,https://www.sba-research.org/
+NOKIA (Deepfield),DDoS Detection service,691,44,62,https://www.nokia.com/genomecrawler/
+Facebook (FacebookBot),Web crawl bot,2,1,140,https://developers.facebook.com/docs/sharing/bot
+DE-CIX,Internet Service provider,1,1,11,http://91.214.252.99/
+semrush,Web crawl bot,1,0,23,https://www.semrush.com/
+dataforseo,Web crawl bot,2,0,10,https://dataforseo.com/
+Ahrefs (AhrefsBot),Web crawl bot,2,0,46,https://ahrefs.com
+Apple (Applebot),Web crawl bot,5,0,11,https://support.apple.com/ja-jp/HT204683
+Common Crawl,Web crawl open data service,1,0,2,https://commoncrawl.org/
+Net Systems Research, - ,1,1,4, - 
+WebMeUp (BlexBot),Web crawl bot,2,0,2,http://webmeup-crawler.com/
+ByteDance (Bytespider),Web crawl bot,1,0,1,https://www.bytedance.com/en/
+Sogou (Sogouspider),Web crawl bot,0,1,1,https://zhanzhang.sogou.com/index.php/help/spider
