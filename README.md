@@ -24,5 +24,8 @@ If you are using this data for writing a paper, please cite the following paper:
 
 1. D. Inoue et al., "nicter: An Incident Analysis System Toward Binding Network Monitoring with Malware Analysis," 2008 WOMBAT Workshop on Information Security Threats Data Collection and Sharing, Amsterdam, Netherlands, 2008, pp. 58-66, doi: 10.1109/WISTDCS.2008.14, [https://ieeexplore.ieee.org/document/4627315](https://ieeexplore.ieee.org/document/4627315).
 
+2. T. Kasama, Y. Endo, M. Kubo and D. Inoue, "Please Stop Knocking on My Door: An Empirical Study on Opt-Out of Internet-Wide Scanning," in IEEE Access, vol. 13, pp. 48416-48430, 2025, doi: 10.1109/ACCESS.2025.3551691, [https://ieeexplore.ieee.org/document/10928993](https://ieeexplore.ieee.org/document/10928993).
+
+
 ## Contributing Information on survey-scan organizations
 If you have information regarding survey-scan organizations, please send it to our e-mail: nicter-kai[at]ml.nict.go.jp. If the information is verified, we will consider updating the list in future releases.
