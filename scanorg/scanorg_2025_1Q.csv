@@ -1,0 +1,63 @@
+scanner name,type,TCP port count,UDP port count,observed days,reference
+Palo Alto Networks (Cortex-Xpanse),Threat Intelligence service,19465,106,90,https://www.paloaltonetworks.com/cortex/cortex-xpanse
+Censys,Threat Intelligence service,65535,65535,90,https://support.censys.io/hc/en-us/articles/360043177092-Opt-Out-of-Data-Collection
+Shadowserver,Threat Intelligence service,220,43,90,https://www.shadowserver.org/
+CriminalIP,Threat Intelligence service,9155,101,90,https://www.criminalip.io/
+driftnet (internet-measurement.com),Threat Intelligence service,65535,25,90,https://internet-measurement.com/
+Modat ,Threat Intelligence service,3656,3,90,https://www.modat.io/scanning
+Academy for Internet Research, - ,1467,1,88,https://academyforinternetresearch.org/
+Shodan,Threat Intelligence service,4125,79,90,https://www.shodan.io/
+The Recyber Project, - ,65536,1,90,https://www.recyber.net/
+Onyphe,Threat Intelligence service,1253,26,90,https://www.onyphe.io/
+internettl, - ,325,123,87, - 
+bitsight,Security evaluation service,385,38,90,https://www.internet-census.org/
+Stretchoid, - ,302,64,41,https://stretchoid.com/
+NETSCOUT (Arbor),Threat Intelligence service,6,65,90,https://www.internet-albedo.net/
+ICT-ISAC,Survey and warning,231,0,33,https://www.ict-isac.jp/news/news20231115.html
+GROUP-IB,Attack Surface Management service,1268,0,90,https://www.group-ib.com/products/attack-surface-management/
+bufferover.run,TLS certificate information service,354,0,88,https://newtls.bufferover.run/
+Rapid7 (Project Sonar),Threat Intelligence service,148,22,43,https://www.rapid7.com/research/project-sonar/
+ipip,Threat Intelligence service,37,4,90,https://security.ipip.net/
+Stanford University,Research,65536,507,50,https://research.esrg.stanford.edu/
+Leakix,Threat Intelligence service,10009,0,39,https://leakix.net/about
+Binaryedge,Threat Intelligence service,1855,13,90,https://docs.binaryedge.io/SEv2/blocking/
+Qrator (Qrator.Radar),Threat Intelligence service,5,15,80,https://radar.qrator.net/learn/18?article=37
+ScanOpticon,Threat Intelligence service,65535,0,90,https://optout.scanopticon.com/
+Limes Security (Alpha Strike Labs),Threat Intelligence service,92,53,89,https://www.alphastrike.io/
+Adscore,Traffic Detection service,4,2,90,https://www.adscore.com/
+NOKIA (Deepfield),DDoS Detection service,768,45,90,https://www.nokia.com/genomecrawler/
+UpGuard (CyberResilience),Research,12,2,90,https://cyberresilience.io/cyberresilience
+Yokohama National University,Research,27,0,78,http://133.34.169.31/
+FR Cert,Survey and warning,1058,10,84,https://www.cert.ssi.gouv.fr/scans/
+Intrinsec,Threat Intelligence service,8,0,90,https://www.intrinsec.com/
+Georgia Institute of Technology, - ,44,1,15,https://scp.cc.gatech.edu/
+FH Muenster,Research,18,0,20,https://fb02itsscan06.fh-muenster.de/
+Cybergreen,Threat Intelligence service,0,5,61,https://www.cybergreen.net/
+University of Cambridge,Research,5,8,54,https://cccc-scanner.dtg.cl.cam.ac.uk/
+"University of California, San Diego",Research,2,0,37,http://169.228.66.212/
+Edgewatch,Threat Intelligence service,395,0,46,https://edgewatch.com/
+The Technical University of Munich (TUM),Research,2,1,62,https://net.in.tum.de/projects/gino/scans.html
+ipinfo,IP address information service,22,0,43,https://ipinfo.io/census
+netsecscan,Research,0,5,60,http://netsecscan.net/
+GDNplus, - ,33414,0,10,https://gdnplus.com/about/
+Max Planck Institute,Research,1,2,85,https://inet-research-scan-1.mpi-inf.mpg.de/
+internet.survey, - ,16,3,15,http://199.195.248.205/
+DomainTools,Threat Intelligence service,1,0,18,https://www.domaintools.com/2
+University of Twente (Internet Transparency research project),Research,6,0,22,https://please-see-measurements.internet-transparency.org/
+Technical University of Denmark (Digital Ghost Ships),Research,6,3,24,http://130.226.254.28/
+University of Michigan,Research,0,1,2,https://cse.engin.umich.edu/about/resources/connection-attempts/
+ANT lab,Research,0,0,45,https://ant.isi.edu/
+Microsoft (Bing Crawler) ,Web crawl bot,61,0,90,https://www.bing.com/webmasters/help/which-crawlers-does-bing-use-8c184ec0
+CAIDA,Research,0,1,90,https://www.caida.org/projects/ioda/
+The Internet Archive,Web crawl bot,0,0,3,http://crawler.archive.org/index.html
+research-scanner.com, - ,14,7,62,http://research-scanner.com/
+Research knoq, - ,1,0,89,https://research.knoq.nl/
+SBA Research, - ,0,0,90,https://www.sba-research.org/
+Ruhr University Bochum,Research,4,0,16,http://research-scanner-dfn89.nds.ruhr-uni-bochum.de/
+Net Systems Research, - ,2,18,9, - 
+Facebook (FacebookBot),Web crawl bot,2,0,20,https://developers.facebook.com/docs/sharing/bot
+semrush,Web crawl bot,1,0,3,https://www.semrush.com/
+Majestic (MJ12Bot),Web crawl bot,2,0,4,https://mj12bot.com/
+Common Crawl,Web crawl open data service,1,0,1,https://commoncrawl.org/
+dataforseo,Web crawl bot,2,0,1,https://dataforseo.com/
+ByteDance (Bytespider),Web crawl bot,1,0,1,https://www.bytedance.com/en/
