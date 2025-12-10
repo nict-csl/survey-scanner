@@ -1,0 +1,79 @@
+scanner name,type,TCP port count,UDP port count,observed days,reference
+Palo Alto Networks (Cortex-Xpanse),Threat Intelligence service,19515,110,92,https://www.paloaltonetworks.com/cortex/cortex-xpanse
+Censys,Threat Intelligence service,65535,65535,92,https://support.censys.io/hc/en-us/articles/360043177092-Opt-Out-of-Data-Collection
+Stretchoid, - ,303,64,92,https://stretchoid.com/
+Shadowserver,Threat Intelligence service,236,42,92,https://www.shadowserver.org/
+driftnet (internet-measurement.com),Threat Intelligence service,65535,65535,92,https://internet-measurement.com/
+CYPEX,Threat Intelligence service,176,0,92,https://cypex.ai/
+Shodan,Threat Intelligence service,3798,80,92,https://www.shodan.io/
+Academy for Internet Research, - ,1491,1,91,https://academyforinternetresearch.org/
+NOKIA (Deepfield),DDoS Detection service,906,45,92,https://www.nokia.com/genomecrawler/
+Onyphe,Threat Intelligence service,65535,26,92,https://www.onyphe.io/
+Modat ,Threat Intelligence service,6719,4,90,https://www.modat.io/scanning
+CriminalIP,Threat Intelligence service,2450,70,92,https://www.criminalip.io/
+ICT-ISAC,Survey and warning,234,0,51,https://www.ict-isac.jp/news/news20231115.html
+The Recyber Project, - ,65535,0,92,https://www.recyber.net/
+bitsight,Security evaluation service,342,38,92,https://www.internet-census.org/
+NETSCOUT (Arbor),Threat Intelligence service,6,526,91,https://www.internet-albedo.net/
+Binaryedge,Threat Intelligence service,65534,13,92,https://docs.binaryedge.io/SEv2/blocking/
+F6,Threat Intelligence service,114,0,92,https://scan.f6.security/
+bufferover.run,TLS certificate information service,425,0,92,https://newtls.bufferover.run/
+ipip,Threat Intelligence service,23,3,92,https://security.ipip.net/
+A Recorded Future (Securitytrails),Threat Intelligence service,233,0,92,https://securitytrails.com/
+Ruhr University Bochum,Research,9,3,92,http://research-scanner-dfn89.nds.ruhr-uni-bochum.de/
+Rapid7 (Project Sonar),Threat Intelligence service,148,22,49,https://www.rapid7.com/research/project-sonar/
+GROUP-IB,Attack Surface Management service,117,0,92,https://www.group-ib.com/products/attack-surface-management/
+Qrator (Qrator.Radar),Threat Intelligence service,5,15,91,https://radar.qrator.net/learn/18?article=37
+Limes Security (Alpha Strike Labs),Threat Intelligence service,92,55,91,https://www.alphastrike.io/
+Adscore,Traffic Detection service,4,2,92,https://www.adscore.com/
+UpGuard (CyberResilience),Research,60,2,92,https://cyberresilience.io/cyberresilience
+FH Muenster,Research,41,0,92,https://fb02itsscan06.fh-muenster.de/
+Yokohama National University,Research,27,0,83,http://133.34.169.31/
+CyberCube,Cyber risk quantification service,25,0,68,https://www.cybcube.com/cybercube-scanning
+FR Cert,Survey and warning,1040,2,85,https://www.cert.ssi.gouv.fr/scans/
+Intrinsec,Threat Intelligence service,8,0,92,https://www.intrinsec.com/
+DomainTools,Threat Intelligence service,1,0,92,https://www.domaintools.com/2
+Max Planck Institute,Research,5,0,92,https://inet-research-scan-1.mpi-inf.mpg.de/
+The Technical University of Munich (TUM),Research,2,1,92,https://net.in.tum.de/projects/gino/scans.html
+Cybergreen,Threat Intelligence service,0,5,64,https://www.cybergreen.net/
+TU Dresden,Research,16,1,41,http://141.76.94.11/
+Louisiana State University,Research,253,0,24,https://173.253.128.10/
+University of Twente (Internet Transparency research project),Research,16,0,60,https://please-see-measurements.internet-transparency.org/
+ipinfo,IP address information service,182,2,36,https://ipinfo.io/census
+Leakix,Threat Intelligence service,90,0,4,https://leakix.net/about
+"University of California, San Diego",Research,2,0,29,http://169.228.66.212/
+netsecscan,Research,0,5,57,http://netsecscan.net/
+Esslingen University of Applied Sciences (Project Patchwatch),Research,2,0,15,http://66.240.192.82/
+internet.survey, - ,16,3,17,http://199.195.248.205/
+Apple (Applebot),Web crawl bot,21,0,24,https://support.apple.com/ja-jp/HT204683
+Edgewatch,Threat Intelligence service,2389,0,3,https://edgewatch.com/
+Georgia Institute of Technology, - ,29,1,92,https://scp.cc.gatech.edu/
+Cyber OK,Attack Surface Management service,16,2,34,https://www.cyberok.ru/docs/Abuse%20policy_eng.pdf
+Technical University of Denmark (Digital Ghost Ships),Research,7,0,2,http://130.226.254.28/
+GDNplus, - ,325,14,67,https://gdnplus.com/about/
+pocnroll,Research,1,0,4,https://research.pocnroll.com/
+ANT lab,Research,0,0,92,https://ant.isi.edu/
+internettl, - ,7156,15,86, - 
+Cymru,Threat Intelligence service,0,2,92,https://www.team-cymru.com/
+CAIDA,Research,0,0,92,https://www.caida.org/projects/ioda/
+BigDataCloud.com,IP address geolocation service,0,0,48,http://165.232.131.98/
+DE-CIX,Internet Service provider,0,0,4,http://91.214.252.99/
+research-scanner.com, - ,24,7,58,http://research-scanner.com/
+Research knoq, - ,1,0,92,https://research.knoq.nl/
+EnGarde Security,Threat Intelligence service,1,0,1,http://157.230.16.243/
+SBA Research, - ,0,0,92,https://www.sba-research.org/
+University of Cambridge,Research,0,1,2,https://cccc-scanner.dtg.cl.cam.ac.uk/
+"University of California, Santa Barbara (SecLab) ",Research,1,0,1,https://abuse.seclab.cs.ucsb.edu/
+Microsoft (Bing Crawler) ,Web crawl bot,71,0,92,https://www.bing.com/webmasters/help/which-crawlers-does-bing-use-8c184ec0
+Facebook (FacebookBot),Web crawl bot,2,0,92,https://developers.facebook.com/docs/sharing/bot
+KLEAP Institute of Information Security (KIIS),Cybersecurity Training,43,0,4,http://64.227.140.16
+"University of California, Berkeley",Research,2,0,7,http://researchscan.eecs.berkeley.edu/
+The Internet Archive,Web crawl bot,11,0,6,http://crawler.archive.org/index.html
+Stanford University,Research,1,0,10,https://research.esrg.stanford.edu/
+Netcraft,Threat Intelligence service,46,0,1,https://www.netcraft.com/
+University of Colorado,Research,0,128,1,http://zbuff-research-scan.colorado.edu/
+Sogou (Sogouspider),Web crawl bot,1,0,2,https://zhanzhang.sogou.com/index.php/help/spider
+semrush,Web crawl bot,1,0,6,https://www.semrush.com/
+dataforseo,Web crawl bot,2,0,1,https://dataforseo.com/
+Open Port Stats, - ,1,0,3,http://openportstats.com/
+ByteDance (Bytespider),Web crawl bot,1,0,2,https://www.bytedance.com/en/
