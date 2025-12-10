@@ -11,52 +11,52 @@
     },
     {
         "ip":"3.130.96.91",
-        "scanner":"cypex",
+        "scanner":"CYPEX",
         "last_seen":"2025-06-30"
     },
     {
         "ip":"3.132.23.201",
-        "scanner":"cypex",
+        "scanner":"CYPEX",
         "last_seen":"2025-06-30"
     },
     {
         "ip":"3.134.148.59",
-        "scanner":"cypex",
+        "scanner":"CYPEX",
         "last_seen":"2025-06-30"
     },
     {
         "ip":"3.136.67.107",
-        "scanner":"cypex",
+        "scanner":"CYPEX",
         "last_seen":"2025-06-30"
     },
     {
         "ip":"3.136.208.236",
-        "scanner":"cypex",
+        "scanner":"CYPEX",
         "last_seen":"2025-06-30"
     },
     {
         "ip":"3.137.73.221",
-        "scanner":"cypex",
+        "scanner":"CYPEX",
         "last_seen":"2025-06-28"
     },
     {
         "ip":"3.143.33.63",
-        "scanner":"cypex",
+        "scanner":"CYPEX",
         "last_seen":"2025-06-30"
     },
     {
         "ip":"3.143.152.247",
-        "scanner":"cypex",
+        "scanner":"CYPEX",
         "last_seen":"2025-06-30"
     },
     {
         "ip":"3.148.147.222",
-        "scanner":"cypex",
+        "scanner":"CYPEX",
         "last_seen":"2025-06-30"
     },
     {
         "ip":"3.149.59.26",
-        "scanner":"cypex",
+        "scanner":"CYPEX",
         "last_seen":"2025-06-30"
     },
     {
@@ -2516,27 +2516,27 @@
     },
     {
         "ip":"18.117.57.162",
-        "scanner":"cypex",
+        "scanner":"CYPEX",
         "last_seen":"2025-06-30"
     },
     {
         "ip":"18.190.163.148",
-        "scanner":"cypex",
+        "scanner":"CYPEX",
         "last_seen":"2025-06-30"
     },
     {
         "ip":"18.217.194.148",
-        "scanner":"cypex",
+        "scanner":"CYPEX",
         "last_seen":"2025-06-30"
     },
     {
         "ip":"18.221.137.47",
-        "scanner":"cypex",
+        "scanner":"CYPEX",
         "last_seen":"2025-06-30"
     },
     {
         "ip":"18.223.104.85",
-        "scanner":"cypex",
+        "scanner":"CYPEX",
         "last_seen":"2025-06-30"
     },
     {
@@ -13141,17 +13141,17 @@
     },
     {
         "ip":"52.14.58.0",
-        "scanner":"cypex",
+        "scanner":"CYPEX",
         "last_seen":"2025-06-30"
     },
     {
         "ip":"52.14.122.207",
-        "scanner":"cypex",
+        "scanner":"CYPEX",
         "last_seen":"2025-06-30"
     },
     {
         "ip":"52.15.85.154",
-        "scanner":"cypex",
+        "scanner":"CYPEX",
         "last_seen":"2025-06-30"
     },
     {
@@ -18746,7 +18746,7 @@
     },
     {
         "ip":"66.240.236.109",
-        "scanner":"cybcube",
+        "scanner":"CyberCube",
         "last_seen":"2025-06-30"
     },
     {
@@ -20501,62 +20501,62 @@
     },
     {
         "ip":"85.142.100.10",
-        "scanner":"cyberok",
+        "scanner":"Cyber OK",
         "last_seen":"2025-06-27"
     },
     {
         "ip":"85.142.100.11",
-        "scanner":"cyberok",
+        "scanner":"Cyber OK",
         "last_seen":"2025-05-29"
     },
     {
         "ip":"85.142.100.82",
-        "scanner":"cyberok",
+        "scanner":"Cyber OK",
         "last_seen":"2025-06-20"
     },
     {
         "ip":"85.142.100.104",
-        "scanner":"cyberok",
+        "scanner":"Cyber OK",
         "last_seen":"2025-05-08"
     },
     {
         "ip":"85.142.100.105",
-        "scanner":"cyberok",
+        "scanner":"Cyber OK",
         "last_seen":"2025-06-27"
     },
     {
         "ip":"85.142.100.106",
-        "scanner":"cyberok",
+        "scanner":"Cyber OK",
         "last_seen":"2025-06-27"
     },
     {
         "ip":"85.142.100.107",
-        "scanner":"cyberok",
+        "scanner":"Cyber OK",
         "last_seen":"2025-06-27"
     },
     {
         "ip":"85.142.100.134",
-        "scanner":"cyberok",
+        "scanner":"Cyber OK",
         "last_seen":"2025-06-27"
     },
     {
         "ip":"85.142.100.135",
-        "scanner":"cyberok",
+        "scanner":"Cyber OK",
         "last_seen":"2025-06-27"
     },
     {
         "ip":"85.142.100.138",
-        "scanner":"cyberok",
+        "scanner":"Cyber OK",
         "last_seen":"2025-06-27"
     },
     {
         "ip":"85.142.100.139",
-        "scanner":"cyberok",
+        "scanner":"Cyber OK",
         "last_seen":"2025-06-27"
     },
     {
         "ip":"85.142.100.141",
-        "scanner":"cyberok",
+        "scanner":"Cyber OK",
         "last_seen":"2025-06-27"
     },
     {
@@ -36961,7 +36961,7 @@
     },
     {
         "ip":"165.232.131.98",
-        "scanner":"bigdatacloud",
+        "scanner":"BigDataCloud.com",
         "last_seen":"2025-06-30"
     },
     {
@@ -39856,17 +39856,17 @@
     },
     {
         "ip":"173.253.128.10",
-        "scanner":"lsu",
+        "scanner":"Louisiana State University",
         "last_seen":"2025-06-16"
     },
     {
         "ip":"173.253.128.11",
-        "scanner":"lsu",
+        "scanner":"Louisiana State University",
         "last_seen":"2025-06-28"
     },
     {
         "ip":"173.253.128.12",
-        "scanner":"lsu",
+        "scanner":"Louisiana State University",
         "last_seen":"2025-06-28"
     },
     {
@@ -43346,7 +43346,7 @@
     },
     {
         "ip":"192.35.222.19",
-        "scanner":"eduucsbseclab",
+        "scanner":"University of California, Santa Barbara (SecLab) ",
         "last_seen":"2025-04-23"
     },
     {
